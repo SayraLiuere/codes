@@ -1,5 +1,5 @@
 package assignments;
-//Author: Amena
+//Author: Amena wooo
 //Matric no: 225822
 //lab no: 5
 //Date: 24/4/2024
